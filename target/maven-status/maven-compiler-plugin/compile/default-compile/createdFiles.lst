@@ -1,0 +1,3 @@
+com\slokam\oauth\RestSec\TestRestController.class
+com\slokam\oauth\RestSec\WebSecurityConfig.class
+com\slokam\oauth\RestSec\RestSecApplication.class
